@@ -15,3 +15,6 @@ Built to practice layout structure and responsive design.
   
 ## Status
 Completed as a practice project.
+
+## Live Demo
+Check it out here: [Travel to Mars](idyllic-semifreddo-5e249b.netlify.app)
