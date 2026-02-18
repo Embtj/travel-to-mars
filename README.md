@@ -17,4 +17,4 @@ Built to practice layout structure and responsive design.
 Completed as a practice project.
 
 ## Live Demo
-Check it out here: <a href="https://idyllic-semifreddo-5e249b.netlify.app" target="_blank" rel="noopener noreferrer">Travel to Mars</a>
+Check it out here: [Travel to Mars](https://idyllic-semifreddo-5e249b.netlify.app)
